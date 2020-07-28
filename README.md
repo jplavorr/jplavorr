@@ -1,14 +1,5 @@
 ### Hi everybody 👋
 
-
-
-🔭 I’m currently working on grow my knowledge in Python, Machine Learning, Statistic and Mathematics.
-🌱 I’m currently learning Python, Machine Learning, Linux and Applied mathematics.
-👯 I’m looking to develop data science and machine learning projects.
-💬 Ask me about math and movies.
-📫 How to reach me:
-📖 My personal blog: Under construction
-<!--
 **jplavorr/jplavorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
