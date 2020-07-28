@@ -1,8 +1,5 @@
 ### Hi everybody 👋
 
-**jplavorr/jplavorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on grow my knowledge in Python, Machine Learning, Statistic and Mathematics.
 - 🌱 I’m currently learning Python, Machine Learning, Linux and Aplicated Math.
